@@ -1,1 +1,161 @@
-hi
+{
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "HTML",
+      "question": "What does HTML stand for?",
+      "correct_answer": [
+        "Hypertext Markup Language"
+      ],
+      "incorrect_answers": [
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlinking Text Marking Language"
+      ],
+      "options": [
+        "Hypertext Markup Language",
+        "Hyperlinks and Text Markup Language",
+        "Home Tool Markup Language",
+        "Hyperlinking Text Marking Language"
+      ],
+      "imageUrl": "https://www.w3.org/html/logo/downloads/HTML5_1Color_Black.png"
+    },
+    {
+      "id": 2,
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "Science: Computers",
+      "question": "Which of the following programming languages are statically typed?",
+      "correct_answer": [
+        "Java",
+        "C++"
+      ],
+      "incorrect_answers": [
+        "JavaScript",
+        "Python"
+      ],
+      "options": [
+        "Java",
+        "C++",
+        "JavaScript",
+        "Python"
+      ],
+      "imageUrl": "https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg"
+    },
+    {
+      "id": 3,
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What is the code name for the mobile operating system Android 7.0?",
+      "correct_answer": [
+        "Nougat"
+      ],
+      "incorrect_answers": [
+        "Ice Cream Sandwich",
+        "Jelly Bean",
+        "Marshmallow"
+      ],
+      "options": [
+        "Nougat",
+        "Ice Cream Sandwich",
+        "Jelly Bean",
+        "Marshmallow"
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": 4,
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does the &quot;MP&quot; stand for in MP3?",
+      "correct_answer": [
+        "Moving Picture"
+      ],
+      "incorrect_answers": [
+        "Music Player",
+        "Multi Pass",
+        "Micro Point"
+      ],
+      "options": [
+        "Music Player",
+        "Multi Pass",
+        "Micro Point",
+        "Moving Picture"
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": 5,
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "What does CPU stand for?",
+      "correct_answer": [
+        "Central Processing Unit"
+      ],
+      "incorrect_answers": [
+        "Central Process Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit"
+      ],
+      "options": [
+        "Central Process Unit",
+        "Central Processing Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit"
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": 6,
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Computers",
+      "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+      "correct_answer": [
+        "Apple"
+      ],
+      "incorrect_answers": [
+        "Microsoft",
+        "Atari",
+        "Commodore"
+      ],
+      "options": [
+        "Apple",
+        "Microsoft",
+        "Atari",
+        "Commodore"
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": 7,
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "Which of the following are database management systems?",
+      "correct_answer": [
+        "MySQL",
+        "PostgreSQL"
+      ],
+      "incorrect_answers": [
+        "React",
+        "Angular"
+      ],
+      "options": [
+        "MySQL",
+        "PostgreSQL",
+        "React",
+        "Angular"
+      ],
+      "imageUrl": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg"
+    }
+  ],
+  "results": [
+    
+  ]
+}
